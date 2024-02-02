@@ -1,0 +1,12 @@
+[
+    {
+        "name": "payment_type_id",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "payment_type",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]

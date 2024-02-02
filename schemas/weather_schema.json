@@ -1,0 +1,72 @@
+[
+    {
+        "name": "date",
+        "type": "DATE",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "temp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "dewp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "slp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "stp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "visib",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "wdsp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "mxspd",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "gust",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "max",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "min",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "prcp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "sndp",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "frshtt",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    }
+]

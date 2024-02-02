@@ -1,0 +1,12 @@
+[
+    {
+        "name": "ratecode_id",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "rate_type",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
